@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Helloooo Everyone!!!This is Saranyaaa</h2>
+<h2>Helloo Everyonee!!!This is Saranyaaa</h2>
 </body>
 </html>
